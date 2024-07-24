@@ -1,0 +1,28 @@
+
+.heading {
+    color: #ffffff;
+}
+
+.heading1 {
+    font-size: 20px;
+}
+#heading-xy{
+    background-color:#4047F0;
+}
+.icon{
+    font-size:19px;
+    margin-left:10px;
+}
+
+
+.container-x {
+    height: 100%;
+    width: 10vw;
+    margin-right:20px;
+}
+.image-x{
+    height:100px;
+    width:120px;
+    margin:20px;
+    border-radius:20px;
+}
